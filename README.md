@@ -1,6 +1,6 @@
 # open-in-macdown
 
-Open selected markdown file using `macdown` macOS applicatdion.
+Open selected markdown file using `macdown` macOS application.
 
 ## Features
 
