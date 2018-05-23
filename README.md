@@ -1,12 +1,10 @@
 # open-in-macdown
 
-Open selected markdown file using `macdown` macOS application.
+Open selected markdown file using `macdown` macOS applicatdion.
 
 ## Features
 
 Open the command palette and search for open in macdown. (Should only be used on files Macdown can open, which is basically any text file but should be markdown files).
-
-
 
 ## Requirements
 
@@ -16,9 +14,17 @@ Open the command palette and search for open in macdown. (Should only be used on
 
 ## Extension Settings
 
-This extension contributes the following settings:
+This extension provides the following settings:
 
 * `openinmacdown.apppath`: Set the path to your Macdown Application (default is `"/Applications/Macdown.app"`)
+
+## Usage
+
+1. Open your desired markdown file (ie README.md)
+2. Select `View | Command Palette...`
+3. Type `Open In Macdown`
+
+![Open In Macdown](http://f.cl.ly/items/0X2q2K3q0p1D11001u1M/Screen%20Recording%202018-05-23%20at%2010.16%20AM.gif)
 
 ## Known Issues
 
