@@ -49,9 +49,6 @@ Twitter: [@codedungeon](http://twitter.com/codedungeon)
 
 Website: [https://github.com/mikeerickson](https://github.com/mikeerickson)
 
-### Screenshot
-
-![Screenshot](https://raw.githubusercontent.com/mikeerickson/phpunit-pretty-result-printer/master/sample.png)
 
 
 ## Working with Markdown
