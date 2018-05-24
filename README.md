@@ -47,7 +47,7 @@ Released under the MIT license
 
 ## Credits
 
-phpunit-result-printer written by Mike Erickson
+open-in-macdown written by Mike Erickson
 
 E-Mail: [codedungeon@gmail.com](mailto:codedungeon@gmail.com)
 
