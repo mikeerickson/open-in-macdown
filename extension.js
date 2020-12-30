@@ -16,14 +16,14 @@ function activate(context) {
   // The command has been defined in the package.json file
   // Now provide the implementation of the command with  registerCommand
   // The commandId parameter must match the command field in package.json
-  let disposable = vscode.commands.registerCommand('extension.openInMacdown', function() {
+  let disposable = vscode.commands.registerCommand('extension.openInMacDown', function() {
     // The code you place here will be executed every time your command is executed
     const currentlyOpenTabfilePath = vscode.window.activeTextEditor.document.fileName;
     // const currentlyOpenTabfileName = path.basename(currentlyOpenTabfilePath);
     // Display a message box to the user
     if (fs.existsSync(currentlyOpenTabfilePath)) {
       // Do something
-      vscode.window.showInformationMessage(`Open In Macdown ${currentlyOpenTabfilePath}`);
+      vscode.window.showInformationMessage(`Open In MacDown ${currentlyOpenTabfilePath}`);
       cp.exec(`open -a "${values.apppath}" ${currentlyOpenTabfilePath}`, (err, stdout, stderr) => {
         console.log('stdout: ' + stdout);
         console.log('stderr: ' + stderr);

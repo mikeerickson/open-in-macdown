@@ -4,11 +4,11 @@ Open selected markdown file using `macdown` macOS application.
 
 ## Features
 
-Open the command palette and search for open in macdown. (Should only be used on files Macdown can open, which is basically any text file but should be markdown files).
+Open the command palette and search for open in macdown. (Should only be used on files MacDown can open, which is basically any text file but should be markdown files).
 
 ## Requirements
 
-[Macdown - The open source Markdown editor for macOS.](https://macdown.uranusjr.com/)
+[MacDown - The open source Markdown editor for macOS.](https://macdown.uranusjr.com/)
 
 > MacDown is an open source Markdown editor for macOS, released under the MIT License. It is heavily influenced by Chen Luo’s Mou.
 
@@ -16,21 +16,21 @@ Open the command palette and search for open in macdown. (Should only be used on
 
 This extension provides the following settings:
 
-* `openinmacdown.apppath`: Set the path to your Macdown Application (default is `"/Applications/Macdown.app"`)
+* `openinmacdown.apppath`: Set the path to your MacDown Application (default is `"/Applications/MacDown.app"`)
 
 ## Usage
 
 1. Open your desired markdown file (ie README.md)
 2. Select `View | Command Palette...`
-3. Type `Open In Macdown`
+3. Type `Open In MacDown`
 
-![Open In Macdown](http://f.cl.ly/items/0X2q2K3q0p1D11001u1M/Screen%20Recording%202018-05-23%20at%2010.16%20AM.gif)
+![Open In MacDown](http://f.cl.ly/items/0X2q2K3q0p1D11001u1M/Screen%20Recording%202018-05-23%20at%2010.16%20AM.gif)
 
 ## Known Issues
 
 There are no known issues, but if you find one, please report it to project github page.
 
-[Macdown Issues](https://github.com/mikeerickson/open-in-macdown/issues)
+[MacDown Issues](https://github.com/mikeerickson/open-in-macdown/issues)
 
 ## Release Notes
 
